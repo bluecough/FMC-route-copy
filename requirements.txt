@@ -1,0 +1,12 @@
+argparse
+certifi
+chardet
+colorama
+crayons
+idna
+pip
+requests
+setuptools
+urllib3
+pathlib
+Path
