@@ -15,7 +15,7 @@ This should show you the different containerUUID's (FTD sensors) and associated 
 ## Step 4
 $ python3 ./FMC-route-copy -dtf
 
-Dumps the routes to a file where the script ran ('fmc-route-output.txt'). You can manipulate it by removing some etc.
+Dumps the routes to a file where the script ran ('fmc-route-output.txt'). You can manipulate it by removing some routes, etc.
 
 ## Step 5
 $ python3 ./FMC-route-copy -l containerUUID
