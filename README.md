@@ -20,4 +20,4 @@ Dumps the routes to a file where the script ran ('fmc-route-output.txt'). You ca
 ## Step 5
 $ python3 ./FMC-route-copy -l containerUUID
 
-This will load the routes into the new FTD sensor (containerUUID). If you see errors it could be that the particular route already exists. It will continue down your list.
+This will load the routes into the new FTD sensor (containerUUID). If you see errors it could be that the particular route already exists. It will continue down your list. (It will read from the file output from the -dtf option).
